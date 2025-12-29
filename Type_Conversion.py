@@ -17,6 +17,8 @@ print(type(result))
 # t = m + n
 # print(t)
 
+print("------------------------------------------------------------------")
+
 # Explicit Type Conversion
 
 a = 5
@@ -28,6 +30,25 @@ int_value = int(value)
 print(type(int_value))
 
 print(int_value)
+
+
+print("------------------------------------------------------------------")
+
+# String to Tuple Conversion
+
+n ="GeekyShows"
+vn = tuple(n)
+print(vn)
+print(type(vn))
+
+print("------------------------------------------------------------------")
+
+# Tuple tp List
+
+n = ('Rahul', 'Sonam', 'Snehal')
+vn = list(n)
+print(vn)
+print(type(vn))
 
 
 
