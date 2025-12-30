@@ -20,3 +20,12 @@ for i in range(10):
     print(i)
 print("Rest of the Code")
 
+print("-------------Pass-----------")
+
+if 5>2:
+    pass
+else:
+    print("Else Part")
+
+print("Rest of the Code")
+
