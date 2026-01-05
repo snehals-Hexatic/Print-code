@@ -4,11 +4,11 @@ class Book:
         self.pages=pages
     
     def __add__(self,other):
-        return self.pages + other.pages
+        return self.pages + other.pages   
     
 b1 = Book(100)
 b2 = Book(200)
 
-print(b1 + b2)
+print(b1 + b2) # --> Internally Python convert it to b1.__add__(b2)
 
  

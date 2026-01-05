@@ -8,3 +8,4 @@ calc = Calculator()
 print(calc.add(10))
 print(calc.add(10,20))
 print(calc.add(10,20,30))
+ 

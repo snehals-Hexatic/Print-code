@@ -21,3 +21,4 @@ s2 =Student(89,32,12)
 
 print(s1.avg())
 print(s2.avg())
+

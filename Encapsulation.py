@@ -12,6 +12,8 @@ class BankAccount:
         
 acc = BankAccount(1000)
 
-acc.deposit(500)
+acc.deposit(500) 
 acc.show_balance()
-# print(acc.__balance)   
+# print(acc.__balance)  
+
+   

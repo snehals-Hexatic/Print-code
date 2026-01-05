@@ -13,3 +13,4 @@ com2 = Computer('Ryzen 3','8GB')
 
 com1.config()
 com2.config()
+
